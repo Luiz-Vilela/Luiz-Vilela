@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! 👋 I'm Luiz, a passionate statistics student with a background in finance. I'm currently interning in portfolio management at FUNCEF. My interests lie at the intersection of finance, machine learning, and AI. I enjoy leveraging Python, Jupyter, and Azure to explore data-driven solutions and insights.
+Hi there! 👋 I'm Luiz, a passionate statistics student with a background in finance. I'm currently an intern in portfolio management at FUNCEF. My interests lie at the intersection of finance, machine learning, and AI. I enjoy leveraging Python, Jupyter, and Azure to explore data-driven solutions and insights.
 
 ## 🔧 Skills & Expertise
 
